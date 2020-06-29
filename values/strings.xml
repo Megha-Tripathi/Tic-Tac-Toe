@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcome">Welcome to TIC-TAC-TOE</string>
+    <string name="grid">Our Main Grid</string>
+    <string name="x1">11</string>
+    <string name="x2">12</string>
+    <string name="x3">13</string>
+    <string name="x4">21</string>
+    <string name="x5">22</string>
+    <string name="x6">23</string>
+    <string name="x7">31</string>
+    <string name="x8">32</string>
+    <string name="x9">33</string>
+    <string name="status">Tap to Play</string>
+</resources>
